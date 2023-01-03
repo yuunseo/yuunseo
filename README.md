@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.instagram.com/nuunseo/" target="_blank"><img src="https://img.shields.io/badge/Yunseo'sInstagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/nuunseo/" target="_blank"><img src="https://img.shields.io/badge/Yunseo'sInstagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
