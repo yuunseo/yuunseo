@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.instagram.com/nuunseo/" target="_blank"><img src="https://img.shields.io/badge/Yunseo's Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/nuunseo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   
-  <h3>Studying</h3>
-
+  <h3>🌱 I’m currently learning ...</h3>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   
   </div>
