@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.instagram.com/nuunseo/" target="_blank"><img src="https://img.shields.io/badge/Yunseo's Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   
- # [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={yuunseo})](https://solved.ac/{https://github.com/yuunseo/yuunseo/})
+
   
   </div>
