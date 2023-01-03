@@ -1,6 +1,6 @@
 
 <div align=center>
-  <h1👋😊</h1>
+  <h1>👋</h1>
 
 <!--
 **yuunseo/yuunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+  <h3>😎 About me</h3>
 <a href="https://www.instagram.com/nuunseo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   
   <h3>🌱 I’m currently learning ...</h3>
