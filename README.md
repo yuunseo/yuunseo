@@ -1,6 +1,6 @@
 
 <div align=center>
-  <h1>👋</h1>
+  <h1>😎</h1>
 
 <!--
 **yuunseo/yuunseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
