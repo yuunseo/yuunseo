@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <h4>😎 About me</h4>
+  <h4>☺️ About me</h4>
 <a href="https://www.instagram.com/nuunseo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
   
   <h4>🌱 I’m currently learning ...</h4>
