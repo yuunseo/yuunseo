@@ -1,14 +1,10 @@
-body {
+body { /*전체적으로 글씨체 통일*/
     font-family: 'Roboto', sans-serif;
 }
 
-.main-title {
-    display: flex;
-    justify-content: center;
-}
 
-nav ul {
-    list-style-type: none;  /* 기본 목록 스타일 제거 */
+nav ul { /* 네비게이션 바 - 기본 목록 스타일 제거 */
+    list-style-type: none; 
     display: flex;
     justify-content: center;
 }
@@ -17,12 +13,10 @@ nav li {
     margin: 20px;
 }
 
-.main-page{
+.row-category{ /*수평 카테고리*/
     display: flex;
     align-items: center;
     justify-content: space-around;
-    margin: 100px;
-    height: 100%;
 }
 
 div{ /* 컨테이너 간격 조정 */
@@ -30,19 +24,12 @@ div{ /* 컨테이너 간격 조정 */
     align-items: left;
 }
 
-.rounded-background-content {
-    border: 1px solid #e7e7e7;  
-    padding: 20px 50px;
-    border-radius: 30px; 
-    display: inline-block;
-}
-
-.title{
+.title{ /*큰 제목 글씨 크기 및 두께*/
     font-size: 20px;
     font-weight: 700;
 }
 
-.image-container {
+.image-container { /*프로필 이미지 레이아웃*/
     justify-content: center;
     align-items: center;
     display: flex;
